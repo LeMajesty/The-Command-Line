@@ -1,0 +1,22 @@
+PART 1
+Make a directory callled first = mkdir first
+Change directory to the first folder = cd first
+Create a file called person.txt = touch person.txt
+Change the name of person.txt to another.txt = mv person.txt another.txt
+Make a copy of the another.txt file and call it copy.txt = cp another.txt copy.text
+Remove the copy.txt file = rm copy.txt
+Make a copy of the file folder and call it second = cp -r first second
+Delete the second folder = rm -rf second
+
+PART 2
+1. The man command list the manual for Command D. To move up half a page use Control^-D. To go back one page use control^-B. To go back half a page use Control^-U.
+2. The -I flag lists in a list format with more detail. The -a lists all files and folders including the hidden ones.
+3.To jump between terminals use Option left/right
+4. Control + e to get to the end of the line in a terminal.
+5. Control + a to get to the beginning in the terminal.
+6. Option + delete to delete a word from terminal.
+7. The terminal is just the interface to the shell. The shell handles all of the commands.
+8. An absolute path is a path that starts from the root route and gives the complete location for a file or folder.
+9. A relative path is a path that starts at the current location and not at the root route.
+10. A flag is what adds functionality.
+11. R will remove folders, and go through each folder and file. -F will do force removal.
